@@ -20,8 +20,8 @@
 
 | 问题 | 解答 | 难度 |
 | ---- | ---- | ---- |
-| [设计一个短链服务:URL-Shortener-Requirement](https://github.com/submato/system-design-pro/blob/main/URL-Shortener/URL-Shortener-Requriement.md) | [URL-Shortener-Solution](https://github.com/submato/system-design-pro/blob/main/URL-Shortener/URL-Shortener-Solution.png) | Easy|
-|Design LeetCode | 等待补充 | Medium |
+| [设计一个短链服务:URL-Shortener-Requirement](https://github.com/submato/system-design-pro/blob/main/URL-Shortener/URL-Shortener-Requirement.md) | [URL-Shortener-Solution](https://github.com/submato/system-design-pro/blob/main/URL-Shortener/URL-Shortener-Solution.png) | Easy|
+|[Design LeetCode](https://github.com/submato/system-design-pro/blob/main/Design-LeetCode/LeetCode-requirement.md) | 等待补充 | Medium |
 |Design Yelp | 等待补充 | Easy |
 |Design Pastebin | 等待补充 | Easy |
 |Design E-commerce Store | 等待补充 | Medium |
