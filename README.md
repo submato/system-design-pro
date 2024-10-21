@@ -18,24 +18,24 @@
 
 ## 题集列表
 
-| 问题 | 解答 | 难度 |
-| ---- | ---- | ---- |
-| [设计一个短链服务:URL-Shortener-Requirement](https://github.com/submato/system-design-pro/blob/main/URL-Shortener/URL-Shortener-Requirement.md) | [URL-Shortener-Solution](https://github.com/submato/system-design-pro/blob/main/URL-Shortener/URL-Shortener-Solution.png) | Easy|
-|[Design LeetCode](https://github.com/submato/system-design-pro/blob/main/Design-LeetCode/LeetCode-requirement.md) | 等待补充 | Medium |
-|Design Yelp | 等待补充 | Easy |
-|Design Pastebin | 等待补充 | Easy |
-|Design E-commerce Store | 等待补充 | Medium |
-|Design Realtime Monitoring System | 等待补充 | Easy |
-|Design Typeahead System | 等待补充 | Easy |
-|Design a Comment System | 等待补充 | Medium |
-|Design Twitter | 等待补充 | Medium |
-|Design a Realtime Chat App like WhatsApp | 等待补充 | Hard |
-|Design Dropbox | 等待补充 | Hard |
-|Design YouTube | 等待补充 | Hard |
-|Design a Ride-Hailing Service Like Uber | 等待补充 | Hard |
-|Design Google Maps | 等待补充 | Hard |
-|Design Netflix | 等待补充 | Medium |
-|Design Top K Heavy Hitter | 等待补充 | Medium |
+| 问题 | 英文解答 | 中文解答 | 难度 |
+| ---- | ---- |------- | ---- |
+| [设计一个短链服务:URL-Shortener-Requirement](https://github.com/submato/system-design-pro/blob/main/URL-Shortener/URL-Shortener-Requirement.md) | [URL-Shortener-Solution](https://github.com/submato/system-design-pro/blob/main/URL-Shortener/URL-Shortener-Solution.png) |等待补充 | Easy|
+|[Design LeetCode](https://github.com/submato/system-design-pro/blob/main/Design-LeetCode/LeetCode-requirement.md) | 等待补充| 等待补充 | Medium |
+|Design Yelp | 等待补充| 等待补充 | Easy |
+|Design Pastebin | 等待补充| 等待补充 | Easy |
+|Design E-commerce Store | 等待补充| 等待补充 | Medium |
+|Design Realtime Monitoring System | 等待补充| 等待补充 | Easy |
+|Design Typeahead System | 等待补充| 等待补充 | Easy |
+|Design a Comment System | 等待补充| 等待补充 | Medium |
+|Design Twitter | 等待补充| 等待补充 | Medium |
+|Design a Realtime Chat App like WhatsApp | 等待补充| 等待补充 | Hard |
+|Design Dropbox | 等待补充| 等待补充 | Hard |
+|Design YouTube | 等待补充| 等待补充 | Hard |
+|Design a Ride-Hailing Service Like Uber | 等待补充| 等待补充 | Hard |
+|Design Google Maps | 等待补充| 等待补充 | Hard |
+|Design Netflix | 等待补充| 等待补充 | Medium |
+|Design Top K Heavy Hitter | 等待补充| 等待补充 | Medium |
 |more problem comming soon... | / | / |
 
 
